@@ -1,0 +1,3 @@
+500 computer
+750 computer
+800 player1
